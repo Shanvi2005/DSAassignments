@@ -1,6 +1,6 @@
 package Solutions;
 
-public class A1Q1{ 
+public class A1_Q1{ 
 	
 	public static void main(String[] args )
 	{
